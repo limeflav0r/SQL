@@ -11,6 +11,9 @@
     <file url="file://$PROJECT_DIR$/03_SQL기본/lecture/05_Keyword.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/03_SQL기본/lecture/06_GRUOP_BY.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/03_SQL기본/과제/250514/250514_과제.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/04_SQL심화/advanced/01_sqldb.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/04_SQL심화/basic/01_sqldb.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/오전 강의/2025-05-15-joindb-서브쿼리.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
