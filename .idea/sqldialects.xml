@@ -13,7 +13,15 @@
     <file url="file://$PROJECT_DIR$/03_SQL기본/과제/250514/250514_과제.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/04_SQL심화/advanced/01_sqldb.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/04_SQL심화/basic/01_sqldb.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/250519_table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/250519_view.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_ddl.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/02_dml.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/03_ddl.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/04_create_view.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/오전 강의/2025-05-15-joindb-서브쿼리.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/오전 강의/2025-05-19-normal.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/오전 강의/2025-05-19-tabledb.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
